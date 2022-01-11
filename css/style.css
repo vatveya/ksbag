@@ -1,0 +1,142 @@
+*{
+  box-sizing: border-box;    
+}
+
+a{
+  color :#000;
+  text-decoration: none;
+  display: inline-block;
+}
+.container{
+  margin: 0 auto;
+  max-width: 1246px;
+  padding: 0  37px 0 39px;
+}
+.header .container  .header__text{
+  padding: 50px 0 ;
+}
+.header .container {
+  margin-bottom: 107px;
+  padding: 0;
+}
+.header__text{
+  font-size: 19px;
+  display:flex;
+  justify-content: space-between;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+.header__slider{
+  padding: 0  37px 0 39px;
+}
+.Proj_title {
+  display: flex;
+  margin-bottom: 130px;
+}
+.proj_titile__inner {
+  max-width: 569px;
+  margin-right: 15px;
+}
+
+.title {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  margin-bottom: 45px;
+}
+.proj_titile__inner .title{
+  margin-bottom: 100px;
+}
+.main__text {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  line-height: 25px;
+  margin-left:  15px;
+}
+.proj_titile__inner .main__text{
+  margin-left: 105px;
+  margin-right: 80px;
+}
+.proj_title_img img{
+  width: 556px;
+  height: 385px;
+}
+.proj_d_t {
+  margin-bottom: 124px;
+}
+.proj_d_t__descr {
+  display: flex;
+  margin-bottom: 125px;
+}
+.proj_date {
+  width: 569px;
+  margin-right: 15px;
+}
+.challenge {
+  width: 571px;
+  margin-left: 15px;
+}
+.challenge .main__text{
+  margin-left: 15px;
+}
+.img_colection img{
+  width: 372px;
+  height: 282px;
+  margin-left: 15px;
+}
+.proj_r_a__descr {
+  display: flex;
+  margin-bottom: 125px;
+}
+.proj_role {
+  width: 569px;
+}
+.our_approach {
+  width: 571px;
+}
+.proj__r_a_img_colection {
+  margin-bottom: 96px;
+}
+.proj__r_a_img {
+  display: flex;
+  margin-bottom: 33px;
+}
+.proj__r_a_img img {
+  margin: 0 15px;
+  width: 554px;
+  height: 437px ;
+}
+.proj__r_a_img-main img{
+  width: 1140px;
+  height: 571px;
+  margin:0 15px;
+}
+.btn__back-back-all-works {
+  margin: 97px 0;
+  text-align: center;
+}
+.btn__back-back-all-works a {
+  border: 1px solid #000;
+  padding: 10px;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+.footer {
+}
+.footer__inner{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.hedr__info {
+  margin:40px;
+}
+.header__social {
+  margin:40px;
+}
+
+.header__nav {
+  margin:40px;
+}
